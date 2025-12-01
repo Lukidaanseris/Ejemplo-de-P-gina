@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+}
+.start {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    color: darkblue;
+
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
